@@ -182,7 +182,8 @@ websites:
       twitter: scaleway
       facebook: scaleway
       img: scaleway.png
-      tfa: No
+      tfa: Yes
+      software: Yes
 
     - name: Scalr
       url: https://www.scalr.com
@@ -221,5 +222,5 @@ websites:
       img: vultr.png
       tfa: Yes
       software: Yes
-      hardware: Yes
+      hardware: Ye
       doc: https://www.vultr.com/docs/using-two-factor-authentication-to-login-to-vultr-control-panel
